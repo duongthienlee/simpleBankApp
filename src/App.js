@@ -1,6 +1,6 @@
 import React from "react";
 import formatNumber from "format-number";
-import photographer from "./images/girl.png";
+import photographer from "./images/avatar.jpeg";
 import "./App.css";
 import { store } from "./store";
 import ButtonGroup from "./ButtonGroup"
