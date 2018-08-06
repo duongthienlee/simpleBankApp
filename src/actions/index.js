@@ -1,0 +1,1 @@
+export const setWithDraw = amount => ({ type: "SET_WITHDRAW", amount })
